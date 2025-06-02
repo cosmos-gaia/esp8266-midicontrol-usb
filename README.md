@@ -39,7 +39,9 @@ If you looking for wiring photo on breadboard, here :
 
 ## Before you go..
 > [!CAUTION]
-> **NEVER EVER** to uncomment the `Serial.printIn` line, it'll absolutely MESS UP the MIDI message. **DONT. EVER. DO. THAT.**    
+> **NEVER EVER** to uncomment the `Serial.printIn` line, it'll absolutely MESS UP the MIDI message. **DONT. EVER. DO. THAT.**
+  And also..
+
 > [!IMPORTANT]
 > The comments are Indonesian. Maybe a little dictionary may help you.    
 
